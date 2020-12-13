@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dummy-service
+  description: Dummy Service
+  tags:
+    - java
+    - jdk11
+    - less
+    - more
+spec:
+  type: service
+  lifecycle: experimental
+  owner: team-b
