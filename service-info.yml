@@ -13,4 +13,9 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: team-b
+  owner: platform
+  providesApi:
+    - dummy-api
+  consumesApi:
+    - silly
+    - namna
