@@ -8,6 +8,8 @@ metadata:
     - jdk11
     - less
     - more
+  annotations:
+    github.com/project-slug: wilteus/inventory
 spec:
   type: service
   lifecycle: experimental
