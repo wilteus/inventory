@@ -8,6 +8,7 @@ metadata:
     - jdk11
     - less
     - more
+    - freedom
   annotations:
     github.com/project-slug: wilteus/inventory
 spec:
